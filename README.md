@@ -39,7 +39,7 @@ Model performance was evaluated using appropriate classification metrics such as
 
 ---
 
-## 🌐 System Architecture
+## System Architecture
 
 ### Backend
 - Framework: **Django**
@@ -57,7 +57,7 @@ Model performance was evaluated using appropriate classification metrics such as
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Programming Languages
 - Python
@@ -79,7 +79,8 @@ Model performance was evaluated using appropriate classification metrics such as
 
 ---
 
-## 📊 Results
+## Results
 - Achieved strong predictive performance across multiple models
 - Gradient Boosting demonstrated the best overall performance
 - The system successfully integrates prediction and recommendation functionalities in a user-friendly web interface
+
