@@ -1,4 +1,4 @@
-﻿# sugarsense
+﻿# Sugarsense
 
 ## Project Overview
 This project is an integrated web-based system designed to predict an individual’s risk of diabetes and provide personalized diet recommendations using machine learning techniques. The system aims to support early risk awareness and promote healthier lifestyle choices through data-driven insights.
@@ -83,4 +83,5 @@ Model performance was evaluated using appropriate classification metrics such as
 - Achieved strong predictive performance across multiple models
 - Gradient Boosting demonstrated the best overall performance
 - The system successfully integrates prediction and recommendation functionalities in a user-friendly web interface
+
 
